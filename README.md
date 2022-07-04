@@ -1,12 +1,18 @@
 # Flame Tutorial
 
 ## Free Assets
+
 2d assets: [gameart2d.com](gameart2d), [craftpix.net](craftpix), [gamedevmarket.net](gamedevmarket)
 Characters: [https://carlmary.jp/gallery/en/materials-300/](carlmary)
+
+## Screen size
+
+There is property **size** in the FlameGame** class which return size of screen as **Vector2**.
 
 ## Sprite
 
 ### Load Sprite
+
 1) Instantiate **SpriteComponent** with **onLoad()** method
 2) In **onLoad()** method:
 
