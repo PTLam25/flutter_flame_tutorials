@@ -1,20 +1,6 @@
-# Flame Tutorial
+import 'package:flame/components.dart';
+import 'package:flame/game.dart';
 
-## Free Assets
-2d assets: [gameart2d.com](gameart2d), [craftpix.net](craftpix), [gamedevmarket.net](gamedevmarket)
-Characters: [https://carlmary.jp/gallery/en/materials-300/](carlmary)
-
-## Sprite
-
-### Load Sprite
-1) Instantiate **SpriteComponent** with **onLoad()** method
-2) In **onLoad()** method:
-
-- Load sprite
-- Add sprite to the game scene
-- Set sprite size and position
-
-```dart
 class GameOne extends FlameGame {
   final SpriteComponent _girlSpite = SpriteComponent();
   final SpriteComponent _boySpite = SpriteComponent();
@@ -40,6 +26,3 @@ class GameOne extends FlameGame {
     add(_boySpite);
   }
 }
-```
-
-
