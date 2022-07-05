@@ -6,7 +6,7 @@ class NextButton extends SpriteComponent with Tappable {
   bool onTapDown(TapDownInfo info) {
     try {
       return true;
-    } catch (error, stackTrace) {
+    } catch (error) {
       return false;
     }
   }

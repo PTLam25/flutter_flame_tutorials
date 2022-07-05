@@ -1,6 +1,6 @@
 # Flame Tutorial
 
-## Free Assets
+## Free Assets and music
 
 2d assets: [gameart2d.com](gameart2d), [craftpix.net](craftpix), [gamedevmarket.net](gamedevmarket)
 Characters: [https://carlmary.jp/gallery/en/materials-300/](carlmary)

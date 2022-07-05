@@ -19,7 +19,7 @@ class GameOne extends FlameGame with HasTappables {
   final NextButton _nextButton = NextButton();
 
   bool _isBoyTurnAway = false;
-  TextPaint _dialogTextPaint = TextPaint(
+  final TextPaint _dialogTextPaint = TextPaint(
     style: const TextStyle(fontSize: 30.0),
   );
 

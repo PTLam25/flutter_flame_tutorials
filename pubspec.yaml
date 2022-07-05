@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   flame: ^1.2.0
+  flame_audio: ^1.2.0
   cupertino_icons: ^1.0.5
 
 dev_dependencies:
@@ -24,3 +25,4 @@ flutter:
 
   assets:
     - assets/images/game_1/
+    - assets/audio/game_2/
