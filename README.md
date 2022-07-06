@@ -1,9 +1,15 @@
 # Flame Tutorial
 
-## Free Assets and music
+## Assets
+
+### Free 2d art and music
 
 2d assets: [gameart2d.com](gameart2d), [craftpix.net](craftpix), [gamedevmarket.net](gamedevmarket)
 Characters: [https://carlmary.jp/gallery/en/materials-300/](carlmary)
+
+### Create sprite sheet app
+
+texturepacker: [https://www.codeandweb.com/texturepacker](texturepacker)
 
 ## Screen size
 

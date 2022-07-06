@@ -11,8 +11,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # 2d game engine
   flame: ^1.2.0
+  # work with audio
   flame_audio: ^1.2.0
+  # to load sprite sheet file which was created by the texturepacker
+  flame_texturepacker: ^2.0.0+2
   cupertino_icons: ^1.0.5
 
 dev_dependencies:
@@ -24,5 +28,7 @@ flutter:
   uses-material-design: true
 
   assets:
+    - assets/
     - assets/images/game_1/
     - assets/audio/game_2/
+    - assets/images/game_3/
